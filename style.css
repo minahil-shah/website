@@ -1,5 +1,5 @@
 img {
-    width: 1500px;
+    max-width: 100%;
 }
 h1{
     font-family:'Berlin Sans FB Demi';
